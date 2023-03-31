@@ -1,7 +1,7 @@
 # Research-paper-Review
 # 1.LSTM_ANN BASED Price Hike sentiment analysis paper link below:
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B_jBQo0AAAAJ&citation_for_view=B_jBQo0AAAAJ:hqOjcs7Dif8C
-# 1.LSTM-ANN Paper Review Link Below:
+# 1.LSTM_ANN BASED Price Hike sentiment analysis review paper link below:
 https://github.com/Ridoy302583/Research-paper-Review/blob/main/LSTM_ANN%20.pdf
 # 2.Sentiment analysis on twitter tweets about COVID-19 vaccines using NLP and supervised KNN classification algorithm paper link below:
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B_jBQo0AAAAJ&citation_for_view=B_jBQo0AAAAJ:UeHWp8X0CEIC
